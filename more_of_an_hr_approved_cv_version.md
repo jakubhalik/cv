@@ -44,7 +44,12 @@
   - Brno, Czech Republic
 
 - **GitHub**:
+
   - [github.com/jakubhalik](https://github.com/jakubhalik)
+
+- **Exemplary FOSS Project**:
+
+- [https://github.com/jakubhalik/text_kuba](https://github.com/jakubhalik/text_kuba)
 
 ### Work Experience
 
