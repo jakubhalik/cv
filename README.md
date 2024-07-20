@@ -40,3 +40,7 @@ Fullstack RBAC CRUD Applications in NextJS, React, TS, JS, Tailwind, ShadCN/UI, 
 ### 2021-2022 - Sounds Good Agency
 
 Shopify custom theme development in JS, CSS, SCSS, Bootstrap, Liquid
+
+### Education
+
+Low Current Electrical Technology 26-41-M/01 - Brno, Purkynova
