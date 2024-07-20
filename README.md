@@ -29,6 +29,8 @@ Location: Brno, Czech Republic
 
 Github: https://github.com/jakubhalik
 
+Exemplary FOSS Project: https://github.com/jakubhalik/text_kuba
+
 ## Work Experience
 
 ### 2023-2024 - Development777 (kajot)
