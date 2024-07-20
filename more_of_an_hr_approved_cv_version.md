@@ -32,7 +32,7 @@
 
 - **Development Environments**:
 
-  - Neovim, Vim, DWM, ST (Dynamic Window Manager and Simple Terminal from Suckless)
+  - Neovim, Vim, Awesome, DWM, ST (Dynamic Window Manager and Simple Terminal from Suckless)
 
 - **Languages**:
 
