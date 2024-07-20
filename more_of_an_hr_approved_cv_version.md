@@ -53,15 +53,15 @@
 
 ### Work Experience
 
-**Fullstack Developer, Development777 (kajot)**
+**Fullstack Web Developer, Development777 (kajot)**
 _2023-2024_
 
 - Developed RBAC CRUD applications using NextJS, React, TypeScript, JavaScript, Tailwind, ShadCN/UI, PostgreSQL, Node-PG, Cypress, VueJS, Python, Selenium, MUI.
 
-**Shopify Developer, Sounds Good Agency**
+**Frontend Developer, Sounds Good Agency**
 _2021-2022_
 
-- Created custom Shopify themes using JavaScript, CSS, SCSS, Bootstrap, and Liquid.
+- Developed custom Shopify themes using JavaScript, CSS, SCSS, Bootstrap, and Liquid.
 
 ### Education
 
