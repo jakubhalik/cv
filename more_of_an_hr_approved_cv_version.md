@@ -57,3 +57,7 @@ _2023-2024_
 _2021-2022_
 
 - Created custom Shopify themes using JavaScript, CSS, SCSS, Bootstrap, and Liquid.
+
+### Education
+
+Low Current Electrical Technology 26-41-M/01 - Brno, Purkynova
