@@ -19,7 +19,7 @@ Zsh, Bash, Dash, Python, Lua, Vimscript,
 
 Arch Linux, Debian Linux, (Both on Servers, Arch on Desktop), Setting up, Monitoring and Deploying Linux Servers, Setting up Firewalls (IPTables, UFW), Deploying Web Servers (Bun, Node, others), Building NGINX HTTP, reverse proxy, TCP/UDP servers, Docker, Git, Building OpenVPN Servers and OpenVPN Clients, Setting up domains, subdomains, forwarding to Servers across ICONN accredited registrars, Setting up and Deploying FOSS (Free and Open Source) Infrastructure (Gitlab, Cloud (Filebrowser), Team Chatting Collaboration App(Mattermost or my own app), Team Tasks/Collaboration/Planning/Calendar App(Focalboard)), Migrating Github to Gitlab, Setting different Servers and Clients for different Networks, for only Local, or via OpenVPN, for Public, Deploying via IPv4 and IPv6, Setting up HTTPS, SSH
 
-Neovim, Vim, DWM, ST (dynamic window manager and simple terminal from suckless)
+Neovim, Vim, Awesome, DWM, ST (dynamic window manager and simple terminal from suckless)
 
 English: C1
 
